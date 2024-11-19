@@ -1,2 +1,2 @@
 # TrabalhandoComGitHubAtividadePratica
-Faculdade Descomplica - Trabalhando com GitHub - Atividade Prática
+ Faculdade Descomplica - Atividade Prática Trabalhando com GitHub, da disciplina Prática Integradora Desenvolvimento de Apps
